@@ -1,8 +1,8 @@
-## Material UI Portfolio
+## SATYAJIT's Portfolio
 
 A portfolio single page application using React and Material UI
 
-### Demo of this site available here [Material-UI-Portfolio Demo](https://satyajitportfolio.netlify.app/)
+### Demo of this site available here [SATYAJIT's-Portfolio](https://satyajitportfolio.netlify.app/)
 
 #### Installing
 
