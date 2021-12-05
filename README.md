@@ -57,8 +57,8 @@ Server will be available at http://127.0.0.1:3000 in your browser
 ## Author
 
 <blockquote>
-Mahmudul alam
-Email: expelmahmud@gmail.com
+SATYAJIT PAL
+Email: palsatyajit986*gmail.com
 </blockquote>
 
 ========Thank You !!!=========
